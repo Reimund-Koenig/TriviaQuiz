@@ -1,0 +1,1044 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <!--============================================================================================-->
+    <query>
+        <question>Welcher Planet wird Abendstern genannt?</question>
+        <answer>Venus</answer>
+        <gap1>Erde</gap1>
+        <gap2>Mars</gap2>
+        <gap3>Jupiter</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wie nennt man eine selbst geschriebene Lebensgeschichte?</question>
+        <answer>Autobiographie</answer>
+        <gap1>Roman</gap1>
+        <gap2>Thriller</gap2>
+        <gap3>Annonce</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Was ist die Zauberflöte?</question>
+        <answer>Oper</answer>
+        <gap1>Musical</gap1>
+        <gap2>Instrument</gap2>
+        <gap3>Schiff</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wie hieß der erste deutsche Bundesprädent?</question>
+        <answer>Theodor Heuss</answer>
+        <gap1>Karl Carstens</gap1>
+        <gap2>Heinrich Lübke</gap2>
+        <gap3>Gustav Heinemann</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wofür stehen die olympischen Ringe?</question>
+        <answer>Kontinente</answer>
+        <gap1>Nichts</gap1>
+        <gap2>5 Monate</gap2>
+        <gap3>5 Ursportarten</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Welcher Nadelbaum wirft im Winter seine Nadeln ab?</question>
+        <answer>Lärche</answer>
+        <gap1>Tanne</gap1>
+        <gap2>Kiefer</gap2>
+        <gap3>Fichte</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wie groß ist der Erdumfang?</question>
+        <answer>40.074 km</answer>
+        <gap1>32.042 km</gap1>
+        <gap2>100.000 km</gap2>
+        <gap3>170.074 km</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wer malte die Mona Lisa?</question>
+        <answer>Leonardo da Vinci</answer>
+        <gap1>Vincent van Gogh</gap1>
+        <gap2>Wassily Kandinsky</gap2>
+        <gap3>Albrecht Dürer</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wie heiß das westliche Militärbündnis?</question>
+        <answer>NATO</answer>
+        <gap1>UNO</gap1>
+        <gap2>EU</gap2>
+        <gap3>USA</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>In welcher Einheit wird der elektrische Widerstand gemessen?</question>
+        <answer>Ohm</answer>
+        <gap1>Rho</gap1>
+        <gap2>Delta</gap2>
+        <gap3>Alpha</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Unter welchem Namen feiert Aykut Anhan Erfolge als Rapper?</question>
+        <answer>Haftbefehl</answer>
+        <gap1>Strafverfahren</gap1>
+        <gap2>Zwangsvollstreckung</gap2>
+        <gap3>Knöllchen</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wo sorgen die Bender Zwillinge seit 2014 für Schlagzeilen?</question>
+        <answer>Fußballbundesliga</answer>
+        <gap1>Hollywood</gap1>
+        <gap2>Große Koalition</gap2>
+        <gap3>Single-Charts</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Welcher Ausdruck beruht auf der Beobachtung, dass sich besagte Tiere gegenseitig auffressen?</question>
+        <answer>spinnefeind</answer>
+        <gap1>hundsgemein</gap1>
+        <gap2>stutenbissig</gap2>
+        <gap3>rattenscharf</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Geben die Prinzen ein Konzert, singen...?</question>
+        <answer>Leipziger allerlei</answer>
+        <gap1>Frankfurter würstchen</gap1>
+        <gap2>Berliner weiße</gap2>
+        <gap3>Dresdner stollen</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Selbst wer ein gutes Schloss benutzt, wird möglicherweise Opfer einer...?</question>
+        <answer>Fahrrad-Klaus</answer>
+        <gap1>Tandem-Ralf</gap1>
+        <gap2>Drahtesel-Dirk</gap2>
+        <gap3>Mountainbike-Joe</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Ärgerlich, wenn der Lieblingsfußballverein leichtfertig</question>
+        <answer>Punkte verschenkt</answer>
+        <gap1>Linien ausgibt</gap1>
+        <gap2>Karos verteilt</gap2>
+        <gap3>mit Kreisen um sich wirft</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Was ist das chemische Zeichen für Wasser?</question>
+        <answer>H2O</answer>
+        <gap1>NaCl</gap1>
+        <gap2>CO2</gap2>
+        <gap3>H2SO4</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Was ist das chemische Zeichen für Kochsalz?</question>
+        <answer>NaCl</answer>
+        <gap1>H3PO4</gap1>
+        <gap2>NaOH</gap2>
+        <gap3>CaOH</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wie heißt der Hund der Simpsons?</question>
+        <answer>Knechtruprecht</answer>
+        <gap1>Weihnachtsmann</gap1>
+        <gap2>Johnny</gap2>
+        <gap3>Duplo</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wie heißt der römische Kriegsgott?</question>
+        <answer>Mars</answer>
+        <gap1>Snickers</gap1>
+        <gap2>Hanuta</gap2>
+        <gap3>Bueno</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wie viele Pins gibt es beim Bowling?</question>
+        <answer>10</answer>
+        <gap1>9</gap1>
+        <gap2>15</gap2>
+        <gap3>11</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Was gilt als die 5. Jahreszeit?</question>
+        <answer>Karneval</answer>
+        <gap1>Ostern</gap1>
+        <gap2>Weihnachten</gap2>
+        <gap3>Halloween</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>In welcher Stadt steht die "Porta Nigra"?</question>
+        <answer>Trier</answer>
+        <gap1>Koblenz</gap1>
+        <gap2>Berlin</gap2>
+        <gap3>Hamburg</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wie nennt man sinnverwandte Wörter?</question>
+        <answer>Synonyme</answer>
+        <gap1>Symbiose</gap1>
+        <gap2>Symptome</gap2>
+        <gap3>Symphonien</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Welche Farbe haben die Ureinwohner Pandoras (Film)</question>
+        <answer>Blau</answer>
+        <gap1>Rot</gap1>
+        <gap2>Grün</gap2>
+        <gap3>Gelb</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wie nennt sich die Schale, in der Apotheker Zubereitungen durchführen?</question>
+        <answer>Fanta-Schale</answer>
+        <gap1>Cola-Schale</gap1>
+        <gap2>Mezzo-Schale</gap2>
+        <gap3>Sprite-Schale</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Was versteht man unter schwedischen Gardinen?</question>
+        <answer>Gefängnis</answer>
+        <gap1>Ikea</gap1>
+        <gap2>Blau-Gelbe Vorhänge</gap2>
+        <gap3>Fischrestaurant</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wie lautet die Abkürzung für die Schweiz?</question>
+        <answer>CH</answer>
+        <gap1>S</gap1>
+        <gap2>SCH</gap2>
+        <gap3>CZ</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Für was steht das Wort "Luna"?</question>
+        <answer>Mond</answer>
+        <gap1>Sonne</gap1>
+        <gap2>Planet</gap2>
+        <gap3>Stern</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wie nennt man die roten Blutkörperchen in der Medizin?</question>
+        <answer>Erythrozyten</answer>
+        <gap1>Leukozyten</gap1>
+        <gap2>Thrombozyten</gap2>
+        <gap3>Granulozythen</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wer führte Indien in die Unabhängigkeit?</question>
+        <answer>Mahatma Gandhi</answer>
+        <gap1>Nelson Mandela </gap1>
+        <gap2>Barack Obama</gap2>
+        <gap3>Queen Elisabeth II</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wer war der erste deutsche Bundeskanzler?</question>
+        <answer>Konrad Adenauer</answer>
+        <gap1>Willy Brandt</gap1>
+        <gap2>Helmut Kohl</gap2>
+        <gap3>Paul von Hindenburg</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wer war der erste deutsche Bundespräsident?</question>
+        <answer>Theodor Heuss</answer>
+        <gap1>Walter Scheel</gap1>
+        <gap2>Karl Carstens</gap2>
+        <gap3>Heinrich Lübke</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wie heißt eine religiöse Stätte des Judentums in Jerusalem?</question>
+        <answer>Klagemauer</answer>
+        <gap1>Schlossmauer</gap1>
+        <gap2>Tempelmauer</gap2>
+        <gap3>Klagewand</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>In welcher Flagge ist kein grün?</question>
+        <answer>Tunesien</answer>
+        <gap1>Indien</gap1>
+        <gap2>Brasilien</gap2>
+        <gap3>Portugal</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Welche dieser Nationalsflaggen ist nicht viereckig?</question>
+        <answer>Nepal</answer>
+        <gap1>Indonesien</gap1>
+        <gap2>Nauru</gap2>
+        <gap3>Panama</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Welche Buchstaben sind bei Deutschen und Amerikanischen Tastaturen vertauscht?</question>
+        <answer>Y und Z</answer>
+        <gap1>A und B</gap1>
+        <gap2>X und N</gap2>
+        <gap3>A und S</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wie lautet der wissenschaftliche Name der Brillenschlange?</question>
+        <answer>Naja Naja</answer>
+        <gap1>Achso Achso</gap1>
+        <gap2>Geht so Geht so</gap2>
+        <gap3>Was solls Was solls</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Welcher afrikanische Fluss mündet in den indischen Ozean?</question>
+        <answer>Sambesi</answer>
+        <gap1>Niger</gap1>
+        <gap2>Kongo</gap2>
+        <gap3>Nil</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wie nennt man die Frauen der Indianer?</question>
+        <answer>Squaws</answer>
+        <gap1>Chikas</gap1>
+        <gap2>Indas</gap2>
+        <gap3>Walhallas</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wie nennen die Einwohner Kubas ihre Hauptstadt?</question>
+        <answer>La Habana</answer>
+        <gap1>La Vegas</gap1>
+        <gap2>La Vita</gap2>
+        <gap3>La Coufisa</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wie viele Mägen hat eine Kuh?</question>
+        <answer>4</answer>
+        <gap1>5</gap1>
+        <gap2>2</gap2>
+        <gap3>1</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wo wirft man bei der Wahl seinen Stimmzettel hinein?</question>
+        <answer>Wahlurne</answer>
+        <gap1>Wahlsarg</gap1>
+        <gap2>Wahlopharg</gap2>
+        <gap3>Wahlkabine</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Welche Staatsform hat Monaco?</question>
+        <answer>Monarchie</answer>
+        <gap1>Diktatur</gap1>
+        <gap2>Anarchie</gap2>
+        <gap3>Demokratie</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wer verfassten Effie Briest?</question>
+        <answer>Theodor Fontane</answer>
+        <gap1>Berthold Brecht</gap1>
+        <gap2>Friedrich Schiller</gap2>
+        <gap3>Thomas Mann</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wie hieß die Dame, in die Goethes Werther so unglücklich verliebt war?</question>
+        <answer>Lotte</answer>
+        <gap1>Gretchen</gap1>
+        <gap2>Susanne</gap2>
+        <gap3>Liese</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Was ist Winnie Poohs Freund I-Aah für ein Tier?</question>
+        <answer>Esel</answer>
+        <gap1>Maus</gap1>
+        <gap2>Ferkel</gap2>
+        <gap3>Zebra</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wer baute die Arche?</question>
+        <answer>Noah</answer>
+        <gap1>Moses</gap1>
+        <gap2>Jesus</gap2>
+        <gap3>Joseph</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Was ist Mangold?</question>
+        <answer>Gemüse</answer>
+        <gap1>Edelmetall</gap1>
+        <gap2>Obst</gap2>
+        <gap3>Gestein</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wie lautet der Vorname Freuds? (Psychologe)</question>
+        <answer>Siegmund</answer>
+        <gap1>Siegfried</gap1>
+        <gap2>Reimund</gap2>
+        <gap3>Sebastian</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wie wird Eisenoxid noch genannt?</question>
+        <answer>Rost</answer>
+        <gap1>Staub</gap1>
+        <gap2>Kalk</gap2>
+        <gap3>Schimmel</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wo wurde der Trabant gebaut?</question>
+        <answer>Zwickau</answer>
+        <gap1>Dresden</gap1>
+        <gap2>Leipzig</gap2>
+        <gap3>Berlin</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Welche beiden Freunde sind Erdmännchen und Warzenschwein?</question>
+        <answer>Timon und Pumba</answer>
+        <gap1>Tim und Struppi</gap1>
+        <gap2>Pat und Patterchen</gap2>
+        <gap3>Balu und Bagira</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wie heißt die Hauptstadt vom Kosovo?</question>
+        <answer>Prishtina</answer>
+        <gap1>Istog</gap1>
+        <gap2>Lipjan</gap2>
+        <gap3>Vitia</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wie bezeichnet man in der Rhetorik die Steigerung?</question>
+        <answer>Klimax</answer>
+        <gap1>Hyperbel</gap1>
+        <gap2>Litotes</gap2>
+        <gap3>Alliteration</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wo befindet sich die spanische Treppe?</question>
+        <answer>Rom</answer>
+        <gap1>Madrid</gap1>
+        <gap2>Barcelona</gap2>
+        <gap3>Lissabon</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Welche Eigenschaften haben Komplementärfarben?</question>
+        <answer>Liegen im Farbkreis gegenüber</answer>
+        <gap1>Liegen im Farbkreis nebeneinander</gap1>
+        <gap2>Gehören zu den Grundfarben</gap2>
+        <gap3>Sind die Regenbogenfarben</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wo übersetzte Luther das Neue Testament ins Deutsche?</question>
+        <answer>Wartburg</answer>
+        <gap1>Marksburg</gap1>
+        <gap2>Salzburg</gap2>
+        <gap3>Hamburg</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Welches dieser Länder besitzt den Euro als Währung?</question>
+        <answer>Finnland</answer>
+        <gap1>Schweiz</gap1>
+        <gap2>Vereinigtes Königreich</gap2>
+        <gap3>Schweden</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wie heißen die Freunde von Bambi?</question>
+        <answer>Klopfer und Blume</answer>
+        <gap1>Regen und Sonne</gap1>
+        <gap2>Schatten und Tinka</gap2>
+        <gap3>Kuschel und Weich</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wie viele Monate hat ein Quartal?</question>
+        <answer>3</answer>
+        <gap1>4</gap1>
+        <gap2>6</gap2>
+        <gap3>12</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wer komponierte das Werk "Die Moldau"?</question>
+        <answer>Bedrich Smetana</answer>
+        <gap1>Igor Strawinski</gap1>
+        <gap2>Antonio Vivaldi</gap2>
+        <gap3>Hector Berlioz</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Die Würde des Menschen ist...? (Grundgesetz)</question>
+        <answer>unantastbar</answer>
+        <gap1>unbegreiflich</gap1>
+        <gap2>unabdingbar</gap2>
+        <gap3>unbekömmlich</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Womit sind die Darsteller beim Starlight Express auf der Bühne unterwegs?</question>
+        <answer>Rollschuhe</answer>
+        <gap1>Tanzschuhe</gap1>
+        <gap2>Schlittschuhe</gap2>
+        <gap3>Turnschuhe</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>welche Farbe hat die Hose von Pumuckl?</question>
+        <answer>Grün</answer>
+        <gap1>Rot</gap1>
+        <gap2>Gelb</gap2>
+        <gap3>Blau</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Was ist ein/e Polenta?</question>
+        <answer>Maisspeise</answer>
+        <gap1>Eis</gap1>
+        <gap2>Krieger</gap2>
+        <gap3>römischer Arzt</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wo spielt der Film, in dem Tom Hanks schlaflos ist?</question>
+        <answer>Seattle</answer>
+        <gap1>New York</gap1>
+        <gap2>Las Vegas</gap2>
+        <gap3>Detroit</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Welche Farbe hat das 2. O im "google" Schriftzug?</question>
+        <answer>Gelb</answer>
+        <gap1>Rot</gap1>
+        <gap2>Grün</gap2>
+        <gap3>Blau</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Welcher Vogel kann nicht fliegen?</question>
+        <answer>Strauß</answer>
+        <gap1>Amsel</gap1>
+        <gap2>Storch</gap2>
+        <gap3>Rabe</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Was ist ein Humidor?</question>
+        <answer>Zigarrenaufbewahrungsbox</answer>
+        <gap1>Schreibtischunterlage</gap1>
+        <gap2>Mülltrennungsanlage</gap2>
+        <gap3>Handtasche</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wie heißt die Figur auf dem Brandenburger Tor?</question>
+        <answer>Quadriga</answer>
+        <gap1>Ludmilla</gap1>
+        <gap2>Lorelei</gap2>
+        <gap3>Diana</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Welcher Fluß fließt durch Zürich?</question>
+        <answer>Limmat</answer>
+        <gap1>Inn</gap1>
+        <gap2>Rhein</gap2>
+        <gap3>Neckar</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Was ist die/das ZNS?</question>
+        <answer>Zentralnervensystem</answer>
+        <gap1>Zentrale für normative Sittenwidrgkeit</gap1>
+        <gap2>Zentrum für neuronale Sinneswahrnehmung</gap2>
+        <gap3>Zentrum für Narkolepespie und Schlafstörung</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Was ist das Gegenstück zum peripheren Nervensystem?</question>
+        <answer>Vegetatives</answer>
+        <gap1>Analoges</gap1>
+        <gap2>Digitales</gap2>
+        <gap3>Modulares</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Die Sonne dreht sich - außer um sich selbst - ...?</question>
+        <answer>um das Zentrum der Milchstraße</answer>
+        <gap1>um die Erde</gap1>
+        <gap2>um den Mond</gap2>
+        <gap3>um das Zentrum des Universums</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wer trägt bei den Peanuts immer eine Decke mit sich rum?</question>
+        <answer>Linus</answer>
+        <gap1>Lucy</gap1>
+        <gap2>Charlie Brown</gap2>
+        <gap3>Snoopy</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Aus wievielen Mitgliedsstaaten besteht die EU (2014)</question>
+        <answer>28</answer>
+        <gap1>27</gap1>
+        <gap2>25</gap2>
+        <gap3>29</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Was bedeutet Korrosion an Metallen umgangssprachlich?</question>
+        <answer>Rosten</answer>
+        <gap1>Verwesen</gap1>
+        <gap2>Altern</gap2>
+        <gap3>Schimmeln</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Zu welcher Automarke gehört das Model "Kadett"?</question>
+        <answer>Opel</answer>
+        <gap1>VW</gap1>
+        <gap2>Mercedes</gap2>
+        <gap3>Toyota</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Was ist Canapé?</question>
+        <answer>Belegtes Brot</answer>
+        <gap1>Spiel</gap1>
+        <gap2>Matratze</gap2>
+        <gap3>Hochhaus</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Welchem Symbol folgt man auf dem Jakobsweg?</question>
+        <answer>Muschel</answer>
+        <gap1>Fisch</gap1>
+        <gap2>Baum</gap2>
+        <gap3>Kreuz</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wer war Jean Jaques Rousseau?</question>
+        <answer>Philosoph</answer>
+        <gap1>Biologie</gap1>
+        <gap2>Sänger</gap2>
+        <gap3>Dichter</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Was ist ein Teil des Gehirns?</question>
+        <answer>Temporallappen</answer>
+        <gap1>Sakrallappen</gap1>
+        <gap2>Frontalscheitel</gap2>
+        <gap3>Kleingebiet</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Womit wird die schwarze Farbe von Schneewittchens Haaren verglichen?</question>
+        <answer>Ebenholz</answer>
+        <gap1>Ihrer Seele</gap1>
+        <gap2>Nacht</gap2>
+        <gap3>Rabe</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wie nennt man den Akt in einem Theaterstück?</question>
+        <answer>Aufzug</answer>
+        <gap1>Treppe</gap1>
+        <gap2>Stufe</gap2>
+        <gap3>Lift</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wie heißt eine Küstenform, die oft in Skandinavien vorkommt?</question>
+        <answer>Fjord</answer>
+        <gap1>Bucht</gap1>
+        <gap2>Wiek</gap2>
+        <gap3>Busen</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Was wird bei der Papstwahl einberufen?</question>
+        <answer>Konklave</answer>
+        <gap1>Konsil</gap1>
+        <gap2>Audienz</gap2>
+        <gap3>Messe</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Unter welchem Namen ist Natriumcarbonat noch bekannt?</question>
+        <answer>Soda</answer>
+        <gap1>Kochsalz</gap1>
+        <gap2>Hefe</gap2>
+        <gap3>Backpulver</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Was sind Affen?</question>
+        <answer>Primaten</answer>
+        <gap1>Superben</gap1>
+        <gap2>Gutanten</gap2>
+        <gap3>Tolloten</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Was bezeichnet der Einzelhändler als "weiße Ware"?</question>
+        <answer>Haushaltsgeräte</answer>
+        <gap1>Wäsche</gap1>
+        <gap2>Milchprodukte</gap2>
+        <gap3>Fliesen</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>In welcher Stadt steht das Chrysler Building?</question>
+        <answer>New York City</answer>
+        <gap1>Washington</gap1>
+        <gap2>Madrid</gap2>
+        <gap3>Miami</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wer wurde der "Rote Baron" genannt?</question>
+        <answer>Manfred von Richthofen</answer>
+        <gap1>Max Immelmann</gap1>
+        <gap2>Ernst Udet</gap2>
+        <gap3>Oswald Boelcke</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wer unter Zöliakie leidet verträgt kein/e...?</question>
+        <answer>Weizen</answer>
+        <gap1>Milch</gap1>
+        <gap2>Obst</gap2>
+        <gap3>Fisch</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wie viel verschiedene Farben hat der "Google" Schriftzug</question>
+        <answer>4</answer>
+        <gap1>6</gap1>
+        <gap2>5</gap2>
+        <gap3>3</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wo steht die europäische Zentralbank?</question>
+        <answer>Frankfurt</answer>
+        <gap1>Brüssel</gap1>
+        <gap2>Straßburg</gap2>
+        <gap3>Madrid</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Ein anderes Wort für "infantil"?</question>
+        <answer>Kindlich</answer>
+        <gap1>Hervorragend</gap1>
+        <gap2>Begeistert</gap2>
+        <gap3>Betrunken</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wie heißt die Ausgangsleistung von Lautsprechern?</question>
+        <answer>Sinusleistung</answer>
+        <gap1>Minusleistung</gap1>
+        <gap2>Tangensleistung</gap2>
+        <gap3>Plusleistung</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Was sind Carnivoren?</question>
+        <answer>Fleischfresser</answer>
+        <gap1>Pflanzenfresser</gap1>
+        <gap2>Allesfresser</gap2>
+        <gap3>Tiere die nicht essen</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wer war der zweite Mann auf der Mond?</question>
+        <answer>Buzz Aldrin</answer>
+        <gap1>Edgar Mitchell</gap1>
+        <gap2>David Scott</gap2>
+        <gap3>John Young</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wie viele deutsche Nordseelinseln gibt es?</question>
+        <answer>12</answer>
+        <gap1>3</gap1>
+        <gap2>23</gap2>
+        <gap3>6</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wie nennt man die deutsche Wirtschaftsordnung?</question>
+        <answer>Soziale Marktwirtschaft</answer>
+        <gap1>Freie Marktwirtschaft</gap1>
+        <gap2>Planwirtschaft</gap2>
+        <gap3>Deutschland hat keine Wirtschaftsordnung</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Welcher dieser Minister/innen bekleidete bereits 3 Ministerposten?</question>
+        <answer>Ursula von der Leyen</answer>
+        <gap1>Wolfgang Schäuble</gap1>
+        <gap2>Frank-Walter Steinmeier</gap2>
+        <gap3>Peer Steinbrück</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wo wurde Angela Merkel geboren?</question>
+        <answer>Hamburg</answer>
+        <gap1>Dresden</gap1>
+        <gap2>Frankfurt</gap2>
+        <gap3>Berlin</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>In welcher dieser Städte stehen die meisten Brücken?</question>
+        <answer>Hamburg</answer>
+        <gap1>Venedig</gap1>
+        <gap2>Amsterdam</gap2>
+        <gap3>Augsburg</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wie heißen die Nachbarn der Simpsons?</question>
+        <answer>Flanders</answer>
+        <gap1>Millers</gap1>
+        <gap2>Browns</gap2>
+        <gap3>Meyers</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wie heißt der Hund, der Lucky Luke manchmal begleitet?</question>
+        <answer>Rantanplan</answer>
+        <gap1>Bello</gap1>
+        <gap2>Mickey</gap2>
+        <gap3>Miles</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wie nennt man das offene Ende bei Serien oder Filmen?</question>
+        <answer>Cliffhanger</answer>
+        <gap1>Spannungsbogen</gap1>
+        <gap2>Zapp</gap2>
+        <gap3>Openfinish</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Was ist auf dem Filmlogo der "Pixar Animation Studios" zu sehen?</question>
+        <answer>Nachtischlampe</answer>
+        <gap1>Löwe</gap1>
+        <gap2>Baum</gap2>
+        <gap3>Glühwürmchen</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Was ist für ein Fisch ist Dori aus dem Film Nemo?</question>
+        <answer>Palettendoktorfisch</answer>
+        <gap1>Regenbogenfisch</gap1>
+        <gap2>Flunder</gap2>
+        <gap3>Clownsfisch</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Welcher Göttin wurde der Tempel auf der Akropolis gewidmet?</question>
+        <answer>Athene</answer>
+        <gap1>Artemis</gap1>
+        <gap2>Dione</gap2>
+        <gap3>Aphrodite</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wie lautet der Spitzname vom Schauspieler Dwayne Johnson</question>
+        <answer>The Rock</answer>
+        <gap1>The King</gap1>
+        <gap2>The Big</gap2>
+        <gap3>The Bulldozer</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Auf welche geometrische Figur trifft der Satz des Thales zu?</question>
+        <answer>rechtwinkliges Dreieck</answer>
+        <gap1>Qudrat</gap1>
+        <gap2>Trapez</gap2>
+        <gap3>Parallelogramm</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Welche 2 Bälle sind zwar in etwa gleich groß unterscheiden sich aber im Gewicht um das 17-fache?</question>
+        <answer>Tischtennisball und Golfball</answer>
+        <gap1>Hockeyball und Tennisball</gap1>
+        <gap2>Fußball und Basketball</gap2>
+        <gap3>Bowlingkugel und Kegelkugel</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Was bedeutet das D in D-Zug?</question>
+        <answer>Durchgang</answer>
+        <gap1>Drehstrom</gap1>
+        <gap2>Durchfahrt</gap2>
+        <gap3>Doppeldecker</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wie viel Dezimeter hat ein Meter?</question>
+        <answer>10</answer>
+        <gap1>100</gap1>
+        <gap2>20</gap2>
+        <gap3>25</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wie viele Länder grenzen direkt an Frankreich?</question>
+        <answer>8</answer>
+        <gap1>7</gap1>
+        <gap2>6</gap2>
+        <gap3>10</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Mit wie vielen Ländern teilt sich Deutschland eine Landesgrenze?</question>
+        <answer>9</answer>
+        <gap1>10</gap1>
+        <gap2>12</gap2>
+        <gap3>8</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wie lang ist die deutsche Grenze?</question>
+        <answer>3621</answer>
+        <gap1>2786</gap1>
+        <gap2>4093</gap2>
+        <gap3>3243</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>In welcher Stadt fand 2006 das Endspiel der Fußballweltmeisterschaft statt?</question>
+        <answer>Berlin</answer>
+        <gap1>München</gap1>
+        <gap2>Gelsenkirchen</gap2>
+        <gap3>Dortmund</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Welche Stadt gibt es laut einer Verschwörungstheorie nicht?</question>
+        <answer>Bielefeld</answer>
+        <gap1>Paderborn</gap1>
+        <gap2>Osnabrück</gap2>
+        <gap3>Melsungen</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wie heißen die Kinder von Ted Mosby mit Vornamen?</question>
+        <answer>Penny und Luke</answer>
+        <gap1>Linda und Jake</gap1>
+        <gap2>Daisy und Marvin</gap2>
+        <gap3>Lilly und Robert</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Was ist kein Palindrom?</question>
+        <answer>Peter</answer>
+        <gap1>Anna</gap1>
+        <gap2>Otto</gap2>
+        <gap3>Hannah</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wie heißt der größte See der Welt?</question>
+        <answer>Kaspisches Meer</answer>
+        <gap1>Aral See</gap1>
+        <gap2>Oberer See</gap2>
+        <gap3>Viktoria See</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Welcher ist der längste Fluß der Welt?</question>
+        <answer>Nil</answer>
+        <gap1>Amazonas</gap1>
+        <gap2>Mississippi</gap2>
+        <gap3>Kongo</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wer rappte den Song "Without me"?</question>
+        <answer>Eminem</answer>
+        <gap1>Snoop Dogg</gap1>
+        <gap2>50 Cent</gap2>
+        <gap3>Dr. Dre</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Welche dieser Bands kommt nicht aus Berlin?</question>
+        <answer>Die Toten Hosen</answer>
+        <gap1>Die Ärzte</gap1>
+        <gap2>Beatsteaks</gap2>
+        <gap3>Seeed</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Welche europäische Centmünze zeigt ein Edelweiß?</question>
+        <answer>Österreich</answer>
+        <gap1>Italien</gap1>
+        <gap2>Finnland</gap2>
+        <gap3>Spanien</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Woher kennt man Martin Schmitt und Sven Hannawald</question>
+        <answer>Skispringen</answer>
+        <gap1>Fussball</gap1>
+        <gap2>Badminton</gap2>
+        <gap3>Biathlon</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Welcher Fluß ist der größte in den USA?</question>
+        <answer>Mississippi</answer>
+        <gap1>Colorado</gap1>
+        <gap2>Ohio</gap2>
+        <gap3>Missouri</gap3>
+    </query>
+    <!--============================================================================================-->
+    <query>
+        <question>Wie heißt der Chauffeur von der drei Fragezeichen?</question>
+        <answer>Mortin</answer>
+        <gap1>Bob</gap1>
+        <gap2>Skinny</gap2>
+        <gap3>Nils</gap3>
+    </query>
+    <!--============================================================================================-->
+</Document>

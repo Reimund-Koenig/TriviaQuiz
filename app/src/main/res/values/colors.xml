@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="transparent">#00000000</color>
+    <color name="lightblue">#FF4169E1</color>
+    <color name="lightred">#FFFA8072</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="transparent_black">#AA000000</color>
+    <color name="darkdarkgray">#FF303030</color>
+    <color name="darkgray">#FF505050</color>
+    <color name="gray">#FFC0C0C0</color>
+    <color name="lightgray">#FFF0F0F0</color>
+    <color name="quiz_1">#FF36868d</color>
+    <color name="quiz_2">#FF0099a0</color>
+    <color name="quiz_3">#FF00bdc6</color>
+    <color name="quiz_4">#FFccfdff</color>
+    <color name="quiz_5">#110099a0</color>
+    <color name="red">#FF800000</color>
+    <color name="green">#ff30a034</color>
+    <color name="yellow">#ffffd000</color>
+
+</resources>

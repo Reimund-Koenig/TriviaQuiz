@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Arduino Trivia Quiz</string>
+    <string name="name">Name:</string>
+    <string name="nickname">Nickname</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="male">männlich</string>
+    <string name="female">weiblich</string>
+    <string name="start_game">STARTEN</string>
+    <string name="num_zero">0</string>
+    <string name="save">Speichern</string>
+    <string name="abort">Abbrechen</string>
+    <string name="forward">Weiter</string>
+    <string name="back">Zurück</string>
+    <string name="close">Schließen</string>
+    <string name="msg_incoming">Neue Nachricht</string>
+    <string name="title_activity_main">Menü</string>
+    <string name="layout_empty">""</string>
+    <string name="empty">""</string>
+    <string name="play_fragment">play fragment</string>
+    <string name="chat_fragment">chat fragment</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="score_points">Punkte</string>
+    <string name="highscore">HIGHSCORE AKTUALISIEREN</string>
+    <string name="introduction_headline_main">Anleitung</string>
+
+    <string name="introduction_headline_abstract">Einleitung</string>
+    <string name="introduction_headline_start">Spiel starten</string>
+    <string name="introduction_headline_chat">Der Chat</string>
+    <string name="introduction_headline_game">Das Spiel</string>
+    <string name="introduction_headline_highscore">Der Highscore</string>
+
+    <string name="introduction_text_abstract">Beim Arduino Trivia Quiz handelt es sich um ein Quiz-Duell für bis zu vier Spieler. Vor Beginn muss zum einen das Bluetooth des Smartphone aktiviert sein, zum anderen muss der Spieler einen "Nicknamen" eingeben. Diesen kann man jederzeit im Menüpunkt "Einstellungen" ändern. Falls Ihr Smartphone eine PIN-Abfrage für den Quizserver startet, können Sie entweder warten bis das Programm die PIN automatisch eingibt oder "0000" eingeben und bestätigen.</string>
+    <string name="introduction_text_start">Durch drücken des "Spiel starten" Buttons beginnt das Spiel. Nachdem das Spiel gestartet ist, haben Sie drei nebeneinander geordnete Fenster zur Verfügung. Links ist der Chat, in der Mitte das eigentliche Quizspiel und rechts der Highscore. Sie können mittels Wischbewegungen zwischen den Bildschirmen wechseln.</string>
+    <string name="introduction_text_game">Alle Spieler bekommen dieselben Fragen. Oben links steht der Punktestand, oben rechts ihr Name. In der Mitte die aktuelle Frage. Unter der Frage stehen die vier Antwortmöglichkeiten von denen eine richtig ist. Um die Kommunikation über den Chat nicht einzuschränken besteht kein Zeitdruck um die Frage zu beantworten. Jede richtig beantwortete Frage gibt 100 Punkte. Wenn eine Frage falsch beantwortet wurde, ist die Spielrunde beendet. Wenn genügend freie Plätze für neue Spieler vorhanden sind dürfen Sie erneut spielen. Ansonsten wird die Verbindung beendet und Sie gelangen zum Highscore. </string>
+    <string name="introduction_text_chat">Im Chat werden Nachrichten von anderen Spielern und Informationen angezeigt. Informationen sind Beispielsweise: \"Rudi belegte den 2. Platz\" oder \"Hans hat leider verloren\". Sie dürfen und sollen auch während dem Spiel chatten. Dies geht bequem über das Eingabefeld. Wenn Sie Nachrichten schreiben, werden diese an alle anderen verbundenen Mitspieler weitergeleitet.</string>
+    <string name="introduction_text_highscore">Am Highscore kann man sich orientieren wie gut die Besten 10 Spieler sind. Der Highscore wird einmal zu Beginn des Spieles geladen. Durch den Button „Highscore aktualisieren“ wird der aktuelle Highscore vom Quizserver heruntergeladen und angezeigt. Wenn man eine Frage falsch beantwortet wird der eigene Score zum Quizserver gesendet und mit dem Highscore verrechnet. Danach wird der Highscore automatisch aktualisiert.</string>
+
+</resources>

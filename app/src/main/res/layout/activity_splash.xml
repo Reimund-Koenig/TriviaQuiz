@@ -1,0 +1,154 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingStart="@dimen/activity_horizontal_margin"
+    android:paddingEnd="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context=".SplashActivity"
+    android:orientation="vertical" >
+    <LinearLayout
+        android:background="@color/transparent"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="0sp"
+        android:layout_weight="10">
+
+    </LinearLayout>
+    <LinearLayout
+        android:baselineAligned="false"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="0sp"
+        android:layout_weight="10">
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="0sp"
+            android:layout_height="match_parent"
+            android:layout_weight="3">
+            <ImageView
+                android:contentDescription="@string/empty"
+                android:src="@drawable/splash1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/splash1" />
+        </LinearLayout>
+        <LinearLayout
+            android:background="@color/transparent"
+            android:orientation="horizontal"
+            android:layout_width="0sp"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+        </LinearLayout>
+        <LinearLayout
+            android:background="@color/transparent"
+            android:orientation="horizontal"
+            android:layout_width="0sp"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:baselineAligned="false"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="0sp"
+        android:layout_weight="10">
+
+        <LinearLayout
+            android:background="@color/transparent"
+            android:orientation="horizontal"
+            android:layout_width="0sp"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="0sp"
+            android:layout_height="match_parent"
+            android:layout_weight="3">
+            <ImageView
+                android:contentDescription="@string/empty"
+                android:src="@drawable/splash2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/splash2"/>
+        </LinearLayout>
+        <LinearLayout
+            android:background="@color/transparent"
+            android:orientation="horizontal"
+            android:layout_width="0sp"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:baselineAligned="false"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="0sp"
+        android:layout_weight="10">
+        <LinearLayout
+            android:background="@color/transparent"
+            android:orientation="horizontal"
+            android:layout_width="0sp"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+        </LinearLayout>
+        <LinearLayout
+            android:background="@color/transparent"
+            android:orientation="horizontal"
+            android:layout_width="0sp"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="0sp"
+            android:layout_height="match_parent"
+            android:layout_weight="3">
+            <ImageView
+                android:contentDescription="@string/empty"
+                android:src="@drawable/splash3"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/splash3"/>
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:background="@color/transparent"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="0sp"
+        android:layout_weight="20">
+
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="0sp"
+        android:layout_weight="20">
+        <ImageView
+            android:contentDescription="@string/empty"
+            android:src="@drawable/splash4"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/splash4"/>
+    </LinearLayout>
+    <LinearLayout
+        android:background="@color/transparent"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="0sp"
+        android:layout_weight="20">
+
+    </LinearLayout>
+</LinearLayout>
+
